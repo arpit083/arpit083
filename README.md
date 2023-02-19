@@ -2,7 +2,7 @@
 An Agile Project Manager curious about Machine Learning and Data Science
 
 
-## 🌐 Socials
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arpit-saxena-3b442b39/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/arpitsaxena83) 
 
 # 💻 Tech Stack
@@ -10,5 +10,5 @@ An Agile Project Manager curious about Machine Learning and Data Science
 # 📊 GitHub
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit083&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Today's Quote
+# ✍️ Today's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
