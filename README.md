@@ -1,5 +1,5 @@
 # 💫 About Me
-An Agile Project Manager curious about Machine Learning and Data Science
+An agile Project Manager curious about Machine Learning and Data Science
 
 
 # 🌐 Socials
