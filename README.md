@@ -10,5 +10,3 @@ An agile Project Manager curious about Machine Learning and Data Science
 # 📊 GitHub
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit083&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# ✍️ Today's Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
