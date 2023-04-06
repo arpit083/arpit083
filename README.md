@@ -1,5 +1,9 @@
 # 💫 About Me
-An agile Project Manager curious about Machine Learning and Data Science
+Highly motivated aspiring data analyst with experience in advanced Excel, Python, MySQL along with
+visualization tools such as Power BI and Tableau. Capable of collecting, analyzing, and interpreting large
+datasets in order to make sound business decisions. Experienced as an Agile project manager with close
+to 2 years of experience in managing cross-functional teams to deliver projects on time and within
+budget. Strong problem-solving skills and ability to work independently or in a team.
 
 
 # 🌐 Socials
