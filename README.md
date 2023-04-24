@@ -1,16 +1,39 @@
-# 💫 About Me
-Highly motivated aspiring data analyst with experience in advanced Excel, Python, MySQL along with
-visualization tools such as Power BI and Tableau. Capable of collecting, analyzing, and interpreting large
-datasets in order to make sound business decisions. Experienced as an Agile project manager with close
-to 2 years of experience in managing cross-functional teams to deliver projects on time and within
-budget. Strong problem-solving skills and ability to work independently or in a team.
+<h1 align="center">Hi 👋, I'm Arpit &emsp; <img src="https://github.com/arpit083/arpit083/blob/main/My%20gif.gif" align="right" width="400" height="300"/></h1>  
+<h3 align="left"> An aspiring data analyst with experience in advanced Excel, Python, MySQL along with
+visualization tools such as Power BI and Tableau. <br>
+
+</h3>
 
 
-# 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-saxena-3b442b39/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arpitsaxena83) 
+- 🌱 I’m currently learning **Data Science** 
 
-# 💻 Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub
+- 👨‍💻 All of my projects are available at https://github.com/arpit083?tab=repositories
+
+- 📫 You can reach me at **arpit.saxena83@gmail.com**
+
+- ⚡ Interesting Fact - **I am that an Entreprenuer at heart.**
+
+<br>
+
+<h2 align="left">Languages and Tools</h2>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="140" height="140"/>          &emsp;         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="270" height="80"/>             
+&emsp; <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" width="100" height="100"/> &emsp;<img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" width="120" height="100"/> &emsp; <img src="https://logowik.com/content/uploads/images/t_figma459.logowik.com.webp" width="150" height="120"/> &emsp; <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" width="150" height="120"/> &emsp; <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png" width="160" height="120"/> &emsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EbrTWosVArmUpPXDfyZ9RnxRBZSxRltCvZf6Pl1bfV4JPT2rrI4BezVCNCPlmzGZGVc&usqp=CAU" width="120" height="100"/> &emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
+&emsp;                          <a>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="120" height="80"/> 
+</a> </p>
+
+<br>
+<h2 align="left">Connect with me</h2>
+<p align="left">
+ 
+<a href="https://www.linkedin.com/in/arpit-saxena-3b442b39/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpit-saxena-3b442b39" height="60" width="80" /></a>           <a href="https://twitter.com/arpitsaxena83" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arpitsaxena83" height="60" width="80" />
+</a> </p>
+
+<br>
+<h2 align="left"></h2>
+<p align="left">
+
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit083&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
