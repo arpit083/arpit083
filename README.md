@@ -16,10 +16,10 @@ visualization tools such as Power BI and Tableau. <br>
 <br>
 
 <h2 align="left">Languages and Tools</h2>
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="140" height="140"/>          &emsp;         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="270" height="80"/>             
-&emsp; <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" width="100" height="100"/> &emsp;<img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" width="120" height="100"/> &emsp; <img src="https://logowik.com/content/uploads/images/t_figma459.logowik.com.webp" width="150" height="120"/> &emsp; <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" width="150" height="120"/> &emsp; <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png" width="160" height="120"/> &emsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EbrTWosVArmUpPXDfyZ9RnxRBZSxRltCvZf6Pl1bfV4JPT2rrI4BezVCNCPlmzGZGVc&usqp=CAU" width="120" height="100"/> &emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/> </a>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="120" height="120"/>          &emsp;         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="200" height="70"/>             
+&emsp; <img src="https://cdn.windowsreport.com/wp-content/uploads/2019/07/Fix-power-bi-cant-find-app.jpg" width="70" height="70"/> &emsp;<img src="https://logos-world.net/wp-content/uploads/2020/02/Canva-Logo.png" width="90" height="70"/> &emsp; <img src="https://logowik.com/content/uploads/images/t_figma459.logowik.com.webp" width="120" height="90"/> &emsp; <img src="https://1000logos.net/wp-content/uploads/2021/05/Atlassian-Logo-2010s1.png" width="120" height="90"/> &emsp; <img src="https://1000logos.net/wp-content/uploads/2021/05/Trello-logo.png" width="130" height="90"/> &emsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1EbrTWosVArmUpPXDfyZ9RnxRBZSxRltCvZf6Pl1bfV4JPT2rrI4BezVCNCPlmzGZGVc&usqp=CAU" width="70" height="80"/> &emsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="70" height="80"/> </a>
 &emsp;                          <a>
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="120" height="80"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="80" height="70"/> 
 </a> </p>
 
 <br>
@@ -31,7 +31,7 @@ visualization tools such as Power BI and Tableau. <br>
 
 <br>
 <h2 align="left"></h2>
-<p align="left">
+<br>
 
 
 # 📊 GitHub Stats
