@@ -11,7 +11,7 @@ visualization tools such as Power BI and Tableau. <br>
 
 - 📫 You can reach me at **arpit.saxena83@gmail.com**
 
-- ⚡ Interesting Fact - **I am that an Entreprenuer at heart.**
+- ⚡ Interesting Fact - **I am an Entreprenuer at heart.**
 
 <br>
 
