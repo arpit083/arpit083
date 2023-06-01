@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpit &emsp; <img src="https://github.com/arpit083/arpit083/blob/main/My%20gif.gif" align="right" width="400" height="300"/></h1>  
-<h3 align="left"> Aspiring data scientist with experience in advanced Excel, Python, MySQL along with
+<h3 align="left"> Aspiring Data Scientist with experience in Machine Learning, advanced Excel, Python, MySQL along with
 visualization tools such as Power BI and Tableau. <br>
 
 </h3>
